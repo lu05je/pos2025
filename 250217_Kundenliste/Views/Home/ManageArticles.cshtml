@@ -1,0 +1,121 @@
+﻿@model Kunde
+
+@{
+    ViewData["Title"] = "Artikel verwalten";
+}
+
+<h2 class="text-center">Artikel für @Model.Vorname @Model.Nachname verwalten</h2>
+
+<div class="container mt-3">
+    <ul class="list-group mt-3">
+        @foreach (var artikel in Model.ArtikelListe)
+        {
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+                @artikel.Name
+                <div>
+                    <!-- Bearbeiten-Button (öffnet Modal mit den Daten des Artikels) -->
+                    <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#editArticleModal-@artikel.Id">
+                        Bearbeiten
+                    </button>
+
+                    <!-- Löschen-Formular -->
+                    <form asp-action="RemoveArticle" method="post" class="d-inline">
+                        <input type="hidden" name="kundeId" value="@Model.Id" />
+                        <input type="hidden" name="artikelId" value="@artikel.Id" />
+                        <button type="submit" class="btn btn-danger">Löschen</button>
+                    </form>
+                </div>
+            </li>
+
+            <!-- Edit Modal für den Artikel -->
+            <div class="modal fade" id="editArticleModal-@artikel.Id" tabindex="-1" aria-labelledby="editArticleModalLabel-@artikel.Id" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">Artikel bearbeiten</h5>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                            <!-- Formular zum Bearbeiten des Artikels -->
+                            <form asp-action="EditArticle" method="post">
+                                <input type="hidden" name="kundeId" value="@Model.Id" />
+                                <input type="hidden" name="artikel.Id" value="@artikel.Id" />
+
+                                <div class="mb-3">
+                                    <label class="form-label">Artikelname:</label>
+                                    <input type="text" class="form-control" name="artikel.Name" value="@artikel.Name" required />
+                                </div>
+
+                                <div class="mb-3">
+                                    <label class="form-label">Beschreibung:</label>
+                                    <textarea class="form-control" name="artikel.Beschreibung" required>@artikel.Beschreibung</textarea>
+                                </div>
+
+                                <div class="mb-3">
+                                    <label class="form-label">Preis:</label>
+                                    <input type="number" class="form-control" name="artikel.Preis" value="@artikel.Preis" step="0.01" min="0" required />
+                                </div>
+
+                                <div class="mb-3">
+                                    <label class="form-label">Lagerbestand:</label>
+                                    <input type="number" class="form-control" name="artikel.Lagerbestand" value="@artikel.Lagerbestand" min="0" required />
+                                </div>
+
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Abbrechen</button>
+                                    <button type="submit" class="btn btn-primary">Änderungen speichern</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </ul>
+
+    <!-- Button zum Öffnen des "Neuen Artikel hinzufügen" Modals -->
+    <button class="btn btn-success mt-3" data-bs-toggle="modal" data-bs-target="#addArticleModal">Neuen Artikel hinzufügen</button>
+
+    <!-- Add Modal -->
+    <div class="modal fade" id="addArticleModal" tabindex="-1" aria-labelledby="addArticleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="addArticleModalLabel">Neuen Artikel hinzufügen</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <!-- Formular zum Hinzufügen eines Artikels -->
+                    <form asp-action="AddArticle" method="post">
+                        <input type="hidden" name="kundeId" value="@Model.Id" />
+
+                        <div class="mb-3">
+                            <label class="form-label">Artikelname:</label>
+                            <input type="text" class="form-control" name="artikel.Name" required />
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label">Beschreibung:</label>
+                            <textarea class="form-control" name="artikel.Beschreibung" required></textarea>
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label">Preis:</label>
+                            <input type="number" class="form-control" name="artikel.Preis" step="0.01" min="0" required />
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label">Lagerbestand:</label>
+                            <input type="number" class="form-control" name="artikel.Lagerbestand" min="0" required />
+                        </div>
+
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Abbrechen</button>
+                            <button type="submit" class="btn btn-success">Artikel hinzufügen</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

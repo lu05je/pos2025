@@ -1,0 +1,32 @@
+[
+  {
+    "ContainingType": "_250217_Kundenliste.Controllers.KundenController",
+    "Method": "GetKunden",
+    "RelativePath": "api/Values",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_250217_Kundenliste.Controllers.KundenController",
+    "Method": "Index",
+    "RelativePath": "api/Values",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_250217_Kundenliste.Controllers.KundenController",
+    "Method": "Init",
+    "RelativePath": "api/Values/Init",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

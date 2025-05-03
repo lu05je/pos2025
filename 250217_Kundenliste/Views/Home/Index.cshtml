@@ -1,0 +1,19 @@
+﻿@model List<Kunde>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h2 class="text-center">Kundenliste</h2>
+<div class="container mt-3">
+    <a href="/Home/Create" class="btn btn-primary mb-3">Neuen Kunden hinzufügen</a>
+    <ul class="list-group">
+        @foreach (var kunde in Model)
+        {
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+                @kunde.Vorname @kunde.Nachname
+                <a href="/Home/ManageArticles/@kunde.Id" class="btn btn-secondary">Artikel verwalten</a>
+            </li>
+        }
+    </ul>
+</div>
