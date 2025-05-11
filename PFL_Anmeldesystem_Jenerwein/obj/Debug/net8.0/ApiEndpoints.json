@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "PFL_Anmeldesystem_Jenerwein.Controllers.AnmeldungController",
+    "Method": "Index",
+    "RelativePath": "api/Anmeldung",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PFL_Anmeldesystem_Jenerwein.Controllers.AnmeldungController",
+    "Method": "GetAllFromDepartments",
+    "RelativePath": "api/Anmeldung/GetAllFromDepartments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "departmentNames",
+        "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PFL_Anmeldesystem_Jenerwein.Controllers.AnmeldungController",
+    "Method": "Seed",
+    "RelativePath": "api/Anmeldung/Seed",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

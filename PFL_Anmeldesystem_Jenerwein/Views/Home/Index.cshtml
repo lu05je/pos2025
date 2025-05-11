@@ -1,0 +1,57 @@
+﻿@model List<Registration>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Willkommen zur Schulanmeldung</h1>
+    <p>
+        <a asp-controller="Home" asp-action="Register">Zur Anmeldung</a>
+    </p>
+</div>
+
+<hr />
+
+<h1>Registrierte Schüler und Schülerinnen</h1>
+<br />
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Vorname</th>
+            <th>Nachname</th>
+            <th>Email</th>
+            <th>Geburtsdatum</th>
+            <th>Registriert</th>
+            <th>Zugeteilt</th>
+            <th>Abteilung</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var reg in Model)
+        {
+            <tr>
+                <td>@reg.Firstname</td>
+                <td>@reg.Lastname</td>
+                <td>@reg.Email</td>
+                <td>@reg.DateOfBirth.ToShortDateString()</td>
+                <td>@reg.RegistrationDate.ToShortDateString()</td>
+
+                <!-- Prüfen, ob AdmittedDate gesetzt ist-->
+                <td>
+                    @if (reg.AdmittedDate.HasValue)
+                    {
+                        @reg.AdmittedDate.Value.ToShortDateString()
+                    }
+                    else
+                    {
+                        <span style="color:red;">nicht zugeteilt</span>
+                    }
+                </td>
+
+                <td>@reg.Department?.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>

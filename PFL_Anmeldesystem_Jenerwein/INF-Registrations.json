@@ -1,0 +1,20 @@
+[
+  {
+    "Firstname": "Bill",
+    "Lastname": "Gates",
+    "Email": "bill@gates",
+    "DateOfBirth": "2005-01-01"
+  },
+  {
+    "Firstname": "Ada",
+    "Lastname": "Lovelace",
+    "Email": "ada@lovelace",
+    "DateOfBirth": "2006-02-02"
+  },
+  {
+    "Firstname": "Steve",
+    "Lastname": "Wozniak",
+    "Email": "steve@wozniak",
+    "DateOfBirth": "2007-03-03"
+  }
+]

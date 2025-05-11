@@ -1,0 +1,39 @@
+﻿@model Registration
+
+@{
+    ViewData["Title"] = "Neue Anmeldung";
+}
+
+<h1>Anmeldung zur Aufnahme</h1>
+<p>Geben Sie die unten angeführten Daten der Schülerin / des Schülers ein, um die Registrierung zu starten.</p>
+<hr />
+
+<form asp-action="Register" method="post">
+    <div class="form-group">
+        <label class="form-label">Vorname Schüler/in:</label>
+        <input asp-for="Firstname" class="form-control" />
+        <span asp-validation-for="Firstname" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label class="form-label">Nachname Schüler/in:</label>
+        <input asp-for="Lastname" class="form-control" />
+        <span asp-validation-for="Lastname" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label class="form-label">Geburtsdatum Schüler/in:</label>
+        <input asp-for="DateOfBirth" class="form-control" type="date" />
+        <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label class="form-label">E-Mail Erziehungsberechtigte/r bzw. eigenberechtigte/r Schüler/in:</label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    
+    <div class="form-group">
+        <label>Abteilungswunsch*</label>
+        <select asp-for="DepartmentChoice" asp-items="Model.DepartmentOptions" class="form-control"></select>
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Speichern</button>
+</form>

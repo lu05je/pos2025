@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PFL_Anmeldesystem_Jenerwein.props" />
+</Project>

@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\PFL_Anmeldesystem_Jenerwein\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F13470A0-E9F4-42FF-97AE-57A00B1B2B56}|PFL_Anmeldesystem_Jenerwein.csproj|c:\\users\\luca\\onedrive - htl saalfelden\\htl\\5ahinf\\5_pos\\aspnet\\pfl_anmeldesystem_jenerwein\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13470A0-E9F4-42FF-97AE-57A00B1B2B56}|PFL_Anmeldesystem_Jenerwein.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13470A0-E9F4-42FF-97AE-57A00B1B2B56}|PFL_Anmeldesystem_Jenerwein.csproj|c:\\users\\luca\\onedrive - htl saalfelden\\htl\\5ahinf\\5_pos\\aspnet\\pfl_anmeldesystem_jenerwein\\controllers\\anmeldungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13470A0-E9F4-42FF-97AE-57A00B1B2B56}|PFL_Anmeldesystem_Jenerwein.csproj|solutionrelative:controllers\\anmeldungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13470A0-E9F4-42FF-97AE-57A00B1B2B56}|PFL_Anmeldesystem_Jenerwein.csproj|c:\\users\\luca\\onedrive - htl saalfelden\\htl\\5ahinf\\5_pos\\aspnet\\pfl_anmeldesystem_jenerwein\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13470A0-E9F4-42FF-97AE-57A00B1B2B56}|PFL_Anmeldesystem_Jenerwein.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13470A0-E9F4-42FF-97AE-57A00B1B2B56}|PFL_Anmeldesystem_Jenerwein.csproj|c:\\users\\luca\\onedrive - htl saalfelden\\htl\\5ahinf\\5_pos\\aspnet\\pfl_anmeldesystem_jenerwein\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F13470A0-E9F4-42FF-97AE-57A00B1B2B56}|PFL_Anmeldesystem_Jenerwein.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13470A0-E9F4-42FF-97AE-57A00B1B2B56}|PFL_Anmeldesystem_Jenerwein.csproj|c:\\users\\luca\\onedrive - htl saalfelden\\htl\\5ahinf\\5_pos\\aspnet\\pfl_anmeldesystem_jenerwein\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F13470A0-E9F4-42FF-97AE-57A00B1B2B56}|PFL_Anmeldesystem_Jenerwein.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13470A0-E9F4-42FF-97AE-57A00B1B2B56}|PFL_Anmeldesystem_Jenerwein.csproj|c:\\users\\luca\\onedrive - htl saalfelden\\htl\\5ahinf\\5_pos\\aspnet\\pfl_anmeldesystem_jenerwein\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F13470A0-E9F4-42FF-97AE-57A00B1B2B56}|PFL_Anmeldesystem_Jenerwein.csproj|solutionrelative:views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13470A0-E9F4-42FF-97AE-57A00B1B2B56}|PFL_Anmeldesystem_Jenerwein.csproj|c:\\users\\luca\\onedrive - htl saalfelden\\htl\\5ahinf\\5_pos\\aspnet\\pfl_anmeldesystem_jenerwein\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13470A0-E9F4-42FF-97AE-57A00B1B2B56}|PFL_Anmeldesystem_Jenerwein.csproj|solutionrelative:models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13470A0-E9F4-42FF-97AE-57A00B1B2B56}|PFL_Anmeldesystem_Jenerwein.csproj|c:\\users\\luca\\onedrive - htl saalfelden\\htl\\5ahinf\\5_pos\\aspnet\\pfl_anmeldesystem_jenerwein\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13470A0-E9F4-42FF-97AE-57A00B1B2B56}|PFL_Anmeldesystem_Jenerwein.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13470A0-E9F4-42FF-97AE-57A00B1B2B56}|PFL_Anmeldesystem_Jenerwein.csproj|c:\\users\\luca\\onedrive - htl saalfelden\\htl\\5ahinf\\5_pos\\aspnet\\pfl_anmeldesystem_jenerwein\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13470A0-E9F4-42FF-97AE-57A00B1B2B56}|PFL_Anmeldesystem_Jenerwein.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13470A0-E9F4-42FF-97AE-57A00B1B2B56}|PFL_Anmeldesystem_Jenerwein.csproj|c:\\users\\luca\\onedrive - htl saalfelden\\htl\\5ahinf\\5_pos\\aspnet\\pfl_anmeldesystem_jenerwein\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F13470A0-E9F4-42FF-97AE-57A00B1B2B56}|PFL_Anmeldesystem_Jenerwein.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13470A0-E9F4-42FF-97AE-57A00B1B2B56}|PFL_Anmeldesystem_Jenerwein.csproj|c:\\users\\luca\\onedrive - htl saalfelden\\htl\\5ahinf\\5_pos\\aspnet\\pfl_anmeldesystem_jenerwein\\migrations\\20250317081954_updatedeparmentchoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13470A0-E9F4-42FF-97AE-57A00B1B2B56}|PFL_Anmeldesystem_Jenerwein.csproj|solutionrelative:migrations\\20250317081954_updatedeparmentchoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13470A0-E9F4-42FF-97AE-57A00B1B2B56}|PFL_Anmeldesystem_Jenerwein.csproj|c:\\users\\luca\\onedrive - htl saalfelden\\htl\\5ahinf\\5_pos\\aspnet\\pfl_anmeldesystem_jenerwein\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13470A0-E9F4-42FF-97AE-57A00B1B2B56}|PFL_Anmeldesystem_Jenerwein.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\PFL_Anmeldesystem_Jenerwein\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\PFL_Anmeldesystem_Jenerwein\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T16:52:17.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\PFL_Anmeldesystem_Jenerwein\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\PFL_Anmeldesystem_Jenerwein\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:43:45.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\PFL_Anmeldesystem_Jenerwein\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\PFL_Anmeldesystem_Jenerwein\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T08:45:52.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\PFL_Anmeldesystem_Jenerwein\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\PFL_Anmeldesystem_Jenerwein\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T08:20:28.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250317081954_UpdateDeparmentChoice.cs",
+              "DocumentMoniker": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\PFL_Anmeldesystem_Jenerwein\\Migrations\\20250317081954_UpdateDeparmentChoice.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250317081954_UpdateDeparmentChoice.cs",
+              "ToolTip": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\PFL_Anmeldesystem_Jenerwein\\Migrations\\20250317081954_UpdateDeparmentChoice.cs",
+              "RelativeToolTip": "Migrations\\20250317081954_UpdateDeparmentChoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T08:19:55.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnmeldungController.cs",
+              "DocumentMoniker": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\PFL_Anmeldesystem_Jenerwein\\Controllers\\AnmeldungController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AnmeldungController.cs",
+              "ToolTip": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\PFL_Anmeldesystem_Jenerwein\\Controllers\\AnmeldungController.cs",
+              "RelativeToolTip": "Controllers\\AnmeldungController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:59:23.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\PFL_Anmeldesystem_Jenerwein\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\PFL_Anmeldesystem_Jenerwein\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "Views\\Home\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T07:58:22.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\PFL_Anmeldesystem_Jenerwein\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\PFL_Anmeldesystem_Jenerwein\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T07:56:21.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\PFL_Anmeldesystem_Jenerwein\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\PFL_Anmeldesystem_Jenerwein\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:56:11.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\PFL_Anmeldesystem_Jenerwein\\Models\\Registration.cs",
+              "RelativeDocumentMoniker": "Models\\Registration.cs",
+              "ToolTip": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\PFL_Anmeldesystem_Jenerwein\\Models\\Registration.cs",
+              "RelativeToolTip": "Models\\Registration.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:33:58.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\PFL_Anmeldesystem_Jenerwein\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\PFL_Anmeldesystem_Jenerwein\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:33:22.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\PFL_Anmeldesystem_Jenerwein\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\PFL_Anmeldesystem_Jenerwein\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:31:56.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
