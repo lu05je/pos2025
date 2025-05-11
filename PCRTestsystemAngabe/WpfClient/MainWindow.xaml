@@ -1,0 +1,32 @@
+﻿<Window x:Class="WpfClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfClient"
+        mc:Ignorable="d"
+        Title="PCR-Testsystem Desktop-Client Teststelle" Height="450" Width="800" Icon="/favicon.jpg">
+    <Grid x:Name="___No_Name_">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="21*"/>
+            <ColumnDefinition Width="379*"/>
+        </Grid.ColumnDefinitions>
+        <Label Grid.Column="1" Content="PCR-Testsystem Desktop-Client Teststraße" HorizontalAlignment="Left" Height="31" Margin="235,34,0,0" VerticalAlignment="Top" Width="251" FontWeight="Bold"/>
+        <Label Grid.Column="1" Content="Postleitzahl:" HorizontalAlignment="Left" Height="26" Margin="248,70,0,0" VerticalAlignment="Top" Width="84" FontWeight="Bold"/>
+        <TextBox x:Name="txtPLZ" Grid.Column="1" HorizontalAlignment="Left" Height="26" Margin="358,70,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="78"/>
+        <Button x:Name="btnShow" Grid.Column="1" Content="Anmeldungen anzeigen" HorizontalAlignment="Left" Height="25" Margin="260,111,0,0" VerticalAlignment="Top" Width="176" Click="btnShow_Click"/>
+        <DataGrid x:Name="grid" Grid.Column="1" HorizontalAlignment="Left" Height="178" Margin="111,160,0,0" VerticalAlignment="Top" Width="572" AutoGenerateColumns="False" GridLinesVisibility="None" HeadersVisibility="Column" SelectionChanged="grid_SelectionChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="PLZ" Binding="{Binding PLZ}" IsReadOnly="True" />
+                <DataGridTextColumn Header="Email" Binding="{Binding Email}" IsReadOnly="True" />
+                <DataGridTextColumn Header="Geburtstag" Binding="{Binding GebTag}" IsReadOnly="True" />
+                <DataGridTextColumn Header="Testzeit(soll)" Binding="{Binding TestzeitSoll}" IsReadOnly="True" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label x:Name="lblCode" Grid.Column="1" Content="Code:" HorizontalAlignment="Left" Height="26" Margin="191,369,0,0" VerticalAlignment="Top" Width="53" FontWeight="Bold" Visibility="Hidden"/>
+        <TextBox x:Name="txtCode" Grid.Column="1" HorizontalAlignment="Left" Height="26" Margin="260,369,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="349" Visibility="Hidden"/>
+        <Button x:Name="btnDoTest" Grid.Column="1" Content="Button" HorizontalAlignment="Left" Height="24" Margin="248,400,0,0" VerticalAlignment="Top" Width="273" Click="btnDoTest_Click" Visibility="Hidden"/>
+        <Label x:Name="lblMessage" Grid.Column="1" Content="Label" HorizontalAlignment="Left" Height="26" Margin="191,369,0,0" VerticalAlignment="Top" Width="446" Visibility="Hidden"/>
+
+    </Grid>
+</Window>

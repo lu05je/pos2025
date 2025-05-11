@@ -1,0 +1,46 @@
+C:\Users\skral\OneDrive - HTL Saalfelden\Sebastian\HTL\5INF\Matura\POS\PCRTestsystemAngabe\WpfClient\bin\Debug\net8.0-windows\WpfClient.exe
+C:\Users\skral\OneDrive - HTL Saalfelden\Sebastian\HTL\5INF\Matura\POS\PCRTestsystemAngabe\WpfClient\bin\Debug\net8.0-windows\WpfClient.deps.json
+C:\Users\skral\OneDrive - HTL Saalfelden\Sebastian\HTL\5INF\Matura\POS\PCRTestsystemAngabe\WpfClient\bin\Debug\net8.0-windows\WpfClient.runtimeconfig.json
+C:\Users\skral\OneDrive - HTL Saalfelden\Sebastian\HTL\5INF\Matura\POS\PCRTestsystemAngabe\WpfClient\bin\Debug\net8.0-windows\WpfClient.dll
+C:\Users\skral\OneDrive - HTL Saalfelden\Sebastian\HTL\5INF\Matura\POS\PCRTestsystemAngabe\WpfClient\bin\Debug\net8.0-windows\WpfClient.pdb
+C:\Users\skral\OneDrive - HTL Saalfelden\Sebastian\HTL\5INF\Matura\POS\PCRTestsystemAngabe\WpfClient\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\skral\OneDrive - HTL Saalfelden\Sebastian\HTL\5INF\Matura\POS\PCRTestsystemAngabe\WpfClient\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\skral\OneDrive - HTL Saalfelden\Sebastian\HTL\5INF\Matura\POS\PCRTestsystemAngabe\WpfClient\obj\Debug\net8.0-windows\WpfClient_MarkupCompile.cache
+C:\Users\skral\OneDrive - HTL Saalfelden\Sebastian\HTL\5INF\Matura\POS\PCRTestsystemAngabe\WpfClient\obj\Debug\net8.0-windows\WpfClient_MarkupCompile.lref
+C:\Users\skral\OneDrive - HTL Saalfelden\Sebastian\HTL\5INF\Matura\POS\PCRTestsystemAngabe\WpfClient\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\skral\OneDrive - HTL Saalfelden\Sebastian\HTL\5INF\Matura\POS\PCRTestsystemAngabe\WpfClient\obj\Debug\net8.0-windows\WpfClient.g.resources
+C:\Users\skral\OneDrive - HTL Saalfelden\Sebastian\HTL\5INF\Matura\POS\PCRTestsystemAngabe\WpfClient\obj\Debug\net8.0-windows\WpfClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skral\OneDrive - HTL Saalfelden\Sebastian\HTL\5INF\Matura\POS\PCRTestsystemAngabe\WpfClient\obj\Debug\net8.0-windows\WpfClient.AssemblyInfoInputs.cache
+C:\Users\skral\OneDrive - HTL Saalfelden\Sebastian\HTL\5INF\Matura\POS\PCRTestsystemAngabe\WpfClient\obj\Debug\net8.0-windows\WpfClient.AssemblyInfo.cs
+C:\Users\skral\OneDrive - HTL Saalfelden\Sebastian\HTL\5INF\Matura\POS\PCRTestsystemAngabe\WpfClient\obj\Debug\net8.0-windows\WpfClient.csproj.CoreCompileInputs.cache
+C:\Users\skral\OneDrive - HTL Saalfelden\Sebastian\HTL\5INF\Matura\POS\PCRTestsystemAngabe\WpfClient\obj\Debug\net8.0-windows\WpfClient.dll
+C:\Users\skral\OneDrive - HTL Saalfelden\Sebastian\HTL\5INF\Matura\POS\PCRTestsystemAngabe\WpfClient\obj\Debug\net8.0-windows\refint\WpfClient.dll
+C:\Users\skral\OneDrive - HTL Saalfelden\Sebastian\HTL\5INF\Matura\POS\PCRTestsystemAngabe\WpfClient\obj\Debug\net8.0-windows\WpfClient.pdb
+C:\Users\skral\OneDrive - HTL Saalfelden\Sebastian\HTL\5INF\Matura\POS\PCRTestsystemAngabe\WpfClient\obj\Debug\net8.0-windows\WpfClient.genruntimeconfig.cache
+C:\Users\skral\OneDrive - HTL Saalfelden\Sebastian\HTL\5INF\Matura\POS\PCRTestsystemAngabe\WpfClient\obj\Debug\net8.0-windows\ref\WpfClient.dll
+C:\Users\skral\OneDrive - HTL Saalfelden\Sebastian\HTL\5INF\Matura\POS\PCRTestsystemAngabe\WpfClient\obj\Debug\net8.0-windows\WpfClient.csproj.AssemblyReference.cache
+C:\Users\skral\OneDrive - HTL Saalfelden\Sebastian\HTL\5INF\Matura\POS\PCRTestsystemAngabe\WpfClient\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\skral\OneDrive - HTL Saalfelden\Sebastian\HTL\5INF\Matura\POS\PCRTestsystemAngabe\WpfClient\obj\Debug\net8.0-windows\WpfClient.csproj.Up2Date
+C:\Users\Luca\Downloads\PCRTestsystemAngabe\PCRTestsystemAngabe\WpfClient\bin\Debug\net8.0-windows\WpfClient.exe
+C:\Users\Luca\Downloads\PCRTestsystemAngabe\PCRTestsystemAngabe\WpfClient\bin\Debug\net8.0-windows\WpfClient.deps.json
+C:\Users\Luca\Downloads\PCRTestsystemAngabe\PCRTestsystemAngabe\WpfClient\bin\Debug\net8.0-windows\WpfClient.runtimeconfig.json
+C:\Users\Luca\Downloads\PCRTestsystemAngabe\PCRTestsystemAngabe\WpfClient\bin\Debug\net8.0-windows\WpfClient.dll
+C:\Users\Luca\Downloads\PCRTestsystemAngabe\PCRTestsystemAngabe\WpfClient\bin\Debug\net8.0-windows\WpfClient.pdb
+C:\Users\Luca\Downloads\PCRTestsystemAngabe\PCRTestsystemAngabe\WpfClient\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Luca\Downloads\PCRTestsystemAngabe\PCRTestsystemAngabe\WpfClient\obj\Debug\net8.0-windows\WpfClient.csproj.AssemblyReference.cache
+C:\Users\Luca\Downloads\PCRTestsystemAngabe\PCRTestsystemAngabe\WpfClient\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Luca\Downloads\PCRTestsystemAngabe\PCRTestsystemAngabe\WpfClient\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Luca\Downloads\PCRTestsystemAngabe\PCRTestsystemAngabe\WpfClient\obj\Debug\net8.0-windows\WpfClient_MarkupCompile.cache
+C:\Users\Luca\Downloads\PCRTestsystemAngabe\PCRTestsystemAngabe\WpfClient\obj\Debug\net8.0-windows\WpfClient_MarkupCompile.lref
+C:\Users\Luca\Downloads\PCRTestsystemAngabe\PCRTestsystemAngabe\WpfClient\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Luca\Downloads\PCRTestsystemAngabe\PCRTestsystemAngabe\WpfClient\obj\Debug\net8.0-windows\WpfClient.g.resources
+C:\Users\Luca\Downloads\PCRTestsystemAngabe\PCRTestsystemAngabe\WpfClient\obj\Debug\net8.0-windows\WpfClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\Downloads\PCRTestsystemAngabe\PCRTestsystemAngabe\WpfClient\obj\Debug\net8.0-windows\WpfClient.AssemblyInfoInputs.cache
+C:\Users\Luca\Downloads\PCRTestsystemAngabe\PCRTestsystemAngabe\WpfClient\obj\Debug\net8.0-windows\WpfClient.AssemblyInfo.cs
+C:\Users\Luca\Downloads\PCRTestsystemAngabe\PCRTestsystemAngabe\WpfClient\obj\Debug\net8.0-windows\WpfClient.csproj.CoreCompileInputs.cache
+C:\Users\Luca\Downloads\PCRTestsystemAngabe\PCRTestsystemAngabe\WpfClient\obj\Debug\net8.0-windows\WpfClient.csproj.Up2Date
+C:\Users\Luca\Downloads\PCRTestsystemAngabe\PCRTestsystemAngabe\WpfClient\obj\Debug\net8.0-windows\WpfClient.dll
+C:\Users\Luca\Downloads\PCRTestsystemAngabe\PCRTestsystemAngabe\WpfClient\obj\Debug\net8.0-windows\refint\WpfClient.dll
+C:\Users\Luca\Downloads\PCRTestsystemAngabe\PCRTestsystemAngabe\WpfClient\obj\Debug\net8.0-windows\WpfClient.pdb
+C:\Users\Luca\Downloads\PCRTestsystemAngabe\PCRTestsystemAngabe\WpfClient\obj\Debug\net8.0-windows\WpfClient.genruntimeconfig.cache
+C:\Users\Luca\Downloads\PCRTestsystemAngabe\PCRTestsystemAngabe\WpfClient\obj\Debug\net8.0-windows\ref\WpfClient.dll
