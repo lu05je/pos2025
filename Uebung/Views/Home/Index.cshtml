@@ -1,0 +1,41 @@
+﻿@model List<Objekt>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Willkommen zur Schulanmeldung</h1>
+    <p>
+        <a asp-controller="Home" asp-action="Create">Zur Anmeldung</a>
+    </p>
+</div>
+
+<hr />
+
+<h1>Objekte</h1>
+<br />
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Beschreibung</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var obj in Model)
+        {
+            <tr>
+                <td>@obj.Name</td>
+                <td>@obj.Beschreibung</td>
+                <td>
+                    @foreach (var lo in obj.ListenObjekt)
+                    {
+                        <p>@lo.Name, </p>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,40 @@
+﻿@model Objekt
+
+@{
+    ViewData["Title"] = "Neues Objekt";
+}
+
+<h1>Anmeldung zur Aufnahme</h1>
+<hr />
+
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label class="form-label">Name:</label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label class="form-label">Beschreibung:</label>
+        <input asp-for="Beschreibung" class="form-control" />
+        <span asp-validation-for="Beschreibung" class="text-danger"></span>
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Hinzufügen</button>
+</form>
+
+
+<h2>JSON-Datei hochladen</h2>
+
+@using (Html.BeginForm("UploadJson", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <input type="file" name="jsonFile" accept=".json" />
+    <br />
+    <br />
+    <input type="submit" value="Hochladen" />
+}
+
+@if (ViewBag.Message != null)
+{
+    <p style="color: green; font-weight: bold;">@ViewBag.Message</p>
+}

@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\Uebung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C967415-E76E-47B1-BAF6-82B4917FB209}|Uebung.csproj|c:\\users\\luca\\onedrive - htl saalfelden\\htl\\5ahinf\\5_pos\\aspnet\\uebung\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C967415-E76E-47B1-BAF6-82B4917FB209}|Uebung.csproj|solutionrelative:views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C967415-E76E-47B1-BAF6-82B4917FB209}|Uebung.csproj|c:\\users\\luca\\onedrive - htl saalfelden\\htl\\5ahinf\\5_pos\\aspnet\\uebung\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C967415-E76E-47B1-BAF6-82B4917FB209}|Uebung.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C967415-E76E-47B1-BAF6-82B4917FB209}|Uebung.csproj|c:\\users\\luca\\onedrive - htl saalfelden\\htl\\5ahinf\\5_pos\\aspnet\\uebung\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C967415-E76E-47B1-BAF6-82B4917FB209}|Uebung.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C967415-E76E-47B1-BAF6-82B4917FB209}|Uebung.csproj|c:\\users\\luca\\onedrive - htl saalfelden\\htl\\5ahinf\\5_pos\\aspnet\\uebung\\models\\objekt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C967415-E76E-47B1-BAF6-82B4917FB209}|Uebung.csproj|solutionrelative:models\\objekt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C967415-E76E-47B1-BAF6-82B4917FB209}|Uebung.csproj|c:\\users\\luca\\onedrive - htl saalfelden\\htl\\5ahinf\\5_pos\\aspnet\\uebung\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C967415-E76E-47B1-BAF6-82B4917FB209}|Uebung.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C967415-E76E-47B1-BAF6-82B4917FB209}|Uebung.csproj|c:\\users\\luca\\onedrive - htl saalfelden\\htl\\5ahinf\\5_pos\\aspnet\\uebung\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C967415-E76E-47B1-BAF6-82B4917FB209}|Uebung.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C967415-E76E-47B1-BAF6-82B4917FB209}|Uebung.csproj|c:\\users\\luca\\onedrive - htl saalfelden\\htl\\5ahinf\\5_pos\\aspnet\\uebung\\models\\listenobjekt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C967415-E76E-47B1-BAF6-82B4917FB209}|Uebung.csproj|solutionrelative:models\\listenobjekt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C967415-E76E-47B1-BAF6-82B4917FB209}|Uebung.csproj|c:\\users\\luca\\onedrive - htl saalfelden\\htl\\5ahinf\\5_pos\\aspnet\\uebung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C967415-E76E-47B1-BAF6-82B4917FB209}|Uebung.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C967415-E76E-47B1-BAF6-82B4917FB209}|Uebung.csproj|c:\\users\\luca\\onedrive - htl saalfelden\\htl\\5ahinf\\5_pos\\aspnet\\uebung\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C967415-E76E-47B1-BAF6-82B4917FB209}|Uebung.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C967415-E76E-47B1-BAF6-82B4917FB209}|Uebung.csproj|c:\\users\\luca\\onedrive - htl saalfelden\\htl\\5ahinf\\5_pos\\aspnet\\uebung\\migrations\\20250511221928_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C967415-E76E-47B1-BAF6-82B4917FB209}|Uebung.csproj|solutionrelative:migrations\\20250511221928_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\Uebung\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\Uebung\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:29:25.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\Uebung\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\Uebung\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T22:27:01.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\Uebung\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\Uebung\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T22:26:59.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\Uebung\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\Uebung\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T22:21:46.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\Uebung\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\Uebung\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T22:19:46.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250511221928_init.cs",
+              "DocumentMoniker": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\Uebung\\Migrations\\20250511221928_init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250511221928_init.cs",
+              "ToolTip": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\Uebung\\Migrations\\20250511221928_init.cs",
+              "RelativeToolTip": "Migrations\\20250511221928_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:19:29.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\Uebung\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\Uebung\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:16:14.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListenObjekt.cs",
+              "DocumentMoniker": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\Uebung\\Models\\ListenObjekt.cs",
+              "RelativeDocumentMoniker": "Models\\ListenObjekt.cs",
+              "ToolTip": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\Uebung\\Models\\ListenObjekt.cs",
+              "RelativeToolTip": "Models\\ListenObjekt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:11:55.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Objekt.cs",
+              "DocumentMoniker": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\Uebung\\Models\\Objekt.cs",
+              "RelativeDocumentMoniker": "Models\\Objekt.cs",
+              "ToolTip": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\Uebung\\Models\\Objekt.cs",
+              "RelativeToolTip": "Models\\Objekt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:11:19.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\Uebung\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Luca\\OneDrive - HTL Saalfelden\\HTL\\5AHINF\\5_POS\\ASPNET\\Uebung\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:10:55.447Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
